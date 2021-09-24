@@ -15,10 +15,14 @@
 <img src="https://media.giphy.com/media/l2SpY4SJZy8b3BMHK/giphy.gif" width="50"> Um pouco sobre mim...  
 
 ```
-    Sou apaixonado por café, fotografia, LOL, 
-    estou sempre em busca de fazer algo novo e, desde que comecei minha jornada como desenvolvedor
-    me apaixono cada vez mais pela àrea de Desenvolvimento Front-end.
-
+    Graduando em sistemas de informação pela Universidade Federal Rural do
+    Rio de Janeiro. 
+    
+    Desenvolvedor Front-end, com conhecimentos em HTML/CSS, Javascript,
+    Wordpress, Ajax, PHP e Bootstrap.
+    
+    Sempre buscando aprender novas tecnologias me aperfeiçoando
+    para o mercado de trabalho.
 ```
 
 
