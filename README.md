@@ -15,14 +15,11 @@
 <img src="https://media.giphy.com/media/l2SpY4SJZy8b3BMHK/giphy.gif" width="50"> Um pouco sobre mim...  
 
 ```
-    Graduando em sistemas de informação pela Universidade Federal Rural do
-    Rio de Janeiro. 
     
     Desenvolvedor Front-end, com conhecimentos em HTML/CSS, Javascript,
     Wordpress, Ajax, PHP e Bootstrap.
     
-    Sempre buscando aprender novas tecnologias me aperfeiçoando
-    para o mercado de trabalho.
+    Sempre buscando aprender novas tecnologias!!
 ```
 
 
