@@ -1,11 +1,30 @@
-<h2> Oi, eu sou o Vitor! </h2>
-<br>
+<h1>
+  <p align="left">
+   Olá, Eu sou o <i>Vitor Machado Ribeiro</i> 
+    <h3>Sou um aluno de Sistemas de Informação na UFRRJ. Atualmente estou me aperfeiçoando em ReactJS, PHP e UX/UI. <h3>   
+  </p>
+</h1>
+
+
+  
+## Linguagens e Ferramentas: 
+  
+<p align="left"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>	
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://wordpress.com/pt-br/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</p>
 <img align='right' src="https://media.giphy.com/media/SYvBdbOBWN9tt2C0Hs/giphy.gif" width="230">
-<p><em>Estudante de Sistemas de Informação em <a href="https://portal.ufrrj.br/">UFRRJ</a>
-<em><br>Desevolvedor e Entusiasta em Desenvolvimento Front-end <a href="https://www.linkedin.com/in/usl/">LinkedIn</a></br>
+
 <div style="display:flex; justify-content: space-between;">
 
-</div>
 
 
 </em>
@@ -16,10 +35,10 @@
 
 ```
     
-    Desenvolvedor Front-end, com conhecimentos em HTML/CSS, Javascript,
-    Wordpress, Ajax, PHP e Bootstrap.
+    Estudante de Sistemas de Informação na UFRRJ
     
-    Sempre buscando aprender novas tecnologias!!
+    Desevolvedor e Entusiasta em Desenvolvimento Front-end 
+
 ```
 
 
